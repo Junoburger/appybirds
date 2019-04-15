@@ -1,0 +1,15 @@
+{
+  "name": "appybirds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bird.js",
+  "scripts": {
+    "start": "nodemon -e *"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  }
+}
